@@ -5,9 +5,6 @@
 ```
 PS：MacBookPro 国行版键盘上根本就没有印上那些鬼符号，只有一个Command菊花
 
-苹果官方keyboard shortcuts说明
-https://support.apple.com/en-us/HT201236
-
 Mac独有按键说明，对比Windows：
 
 Caps Lock ⇪  ---> Caps Lock 大写锁定键
@@ -21,14 +18,14 @@ Mac键盘对比Windows键盘的主要差异在于：
  *Command和Option对应Windows中的Windows和Alt这两个键的物理位置是相反的；
 
 ```
-
-> * Linux和Windows快捷键是一致的
+> * [苹果官方keyboard shortcuts说明](https://support.apple.com/en-us/HT201236) 
+> * Linux和Windows快捷键是一致的，**粗体**为常用能提高生产力快捷键，推荐记忆
 
 #### 必须记住的快捷键[Remember these shotcuts]：
 
 Function | 功能 | Windows | Mac
 ---|---|---|---
-Smart code completion|快速代码补全|Ctrl + Shift + Space| Option + Shift + Space
+**Smart code completion**|**快速代码补全**|Ctrl + Shift + Space| Option + Shift + Space
 Search everywhere|全局搜索|双击Shift|双击Shift
 Show intention actions and quick-fixes|显示建议并快速修复(类似Eclipse中的错误鼠标悬停点击修复)|Alt + Enter| Command+Enter
 Generate code|自动生成代码(Get,Set,构造之类)|Alt + Insert|Command+N或Option+Enter
