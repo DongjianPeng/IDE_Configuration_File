@@ -22,7 +22,7 @@ Mac键盘对比Windows键盘的主要差异在于：
 
 ```
 
-> * Linux和Windows快捷键是一致的，==黄色背景==为常用能提高生产力快捷键，推荐记忆
+> * Linux和Windows快捷键是一致的
 
 #### 必须记住的快捷键[Remember these shotcuts]：
 
